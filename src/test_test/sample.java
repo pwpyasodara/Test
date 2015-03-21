@@ -9,6 +9,10 @@ public class sample {
 		System.out.println("This is a test4");
 		System.out.println("This is a test5");
 		
+		for (int i = 0; i < 10; i++) {
+			System.out.println(i);
+		}
+		
 		
 	}
 
